@@ -1,0 +1,2 @@
+# Python 3.11+; runtime and tests use only the Python standard library.
+# No third-party packages are required.
